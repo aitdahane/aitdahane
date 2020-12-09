@@ -2,7 +2,7 @@
 
 Yo there 👋, I'm Mohamed Ait Dahane, a moroccan 🇲🇦 full-stack developer from Paris 🇫🇷.
 
-## ❤️‍🔥 I'm passionate about
+## 🔥 I'm passionate about
 
 - Web Development
 - Competitive Programming
@@ -13,4 +13,3 @@ Yo there 👋, I'm Mohamed Ait Dahane, a moroccan 🇲🇦 full-stack developer 
 ## 🤹 My Tech Stack 
 
 ![TechStack](tech-stack.png)
-
