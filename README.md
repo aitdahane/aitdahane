@@ -12,5 +12,5 @@ Yo there 👋, I'm Mohamed Ait Dahane, a moroccan 🇲🇦 full-stack developer 
 
 ## 🤹 My Tech Stack 
 
-![Tech Stack](tech-stack.png)
+![TechStack](tech-stack.png)
 
